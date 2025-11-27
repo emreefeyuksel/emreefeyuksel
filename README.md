@@ -42,6 +42,15 @@ I am a software developer focused on **Artificial Intelligence** and **Computer 
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emreefeyuksel&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Emre Efe Yuksel Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emreefeyuksel&theme=tokyonight&hide_border=true" alt="Emre Efe Yuksel Streak" />
+</p>
+
+---
+
 ### 📫 Connect with Me / İletişim
 
 <p align="left">
