@@ -42,11 +42,9 @@ I am a software developer focused on **Artificial Intelligence** and **Computer 
 
 ---
 
-### 📊 GitHub Stats
-
+<h3 align="center">Languages I Speak</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emreefeyuksel&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Emre Efe Yuksel Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emreefeyuksel&theme=tokyonight&hide_border=true" alt="Emre Efe Yuksel Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreefeyuksel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
