@@ -8,7 +8,7 @@
 ### 🇬🇧 About Me
 I am a software developer focused on **Artificial Intelligence** and **Computer Vision** technologies. I aim to extract meaningful insights from visual data. Currently, I am building Python-based image processing projects and working on deep learning architectures.
 
-- 🔭 I’m currently working on **[Project Name / Image Processing Project]**
+- 🔭 I’m currently working on **Surface Defect Detection for Textile Products**
 - 🌱 I’m currently learning **Advanced CNN Architectures & Transformers**
 - 🎯 My Goal: Developing scalable solutions for real-world computer vision problems.
 
@@ -17,7 +17,7 @@ I am a software developer focused on **Artificial Intelligence** and **Computer 
 ### 🇹🇷 Hakkımda
 **Yapay Zeka** ve **Görüntü İşleme** teknolojileri üzerine yoğunlaşan, veriden anlamlı görseller ve sonuçlar çıkarmayı hedefleyen bir yazılım geliştiriciyim. Şu anda Python tabanlı görüntü işleme projeleri geliştiriyor ve derin öğrenme mimarileri üzerine çalışıyorum.
 
-- 🔭 Şu an **[Proje Adı / Görüntü İşleme Projesi]** üzerine çalışıyorum.
+- 🔭 Şu an **Tekstil Ürünlerinde Yüzey Kusurları Tespiti** üzerine çalışıyorum.
 - 🌱 Şu an **İleri Seviye CNN Mimarileri & Transformers** öğreniyorum.
 - 🎯 Hedefim: Görüntü işleme alanında gerçek dünya problemlerini çözen ölçeklenebilir projeler üretmek.
 
