@@ -28,13 +28,13 @@ I am a software developer focused on **Artificial Intelligence** and **Computer 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
+   
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  
+   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -42,10 +42,12 @@ I am a software developer focused on **Artificial Intelligence** and **Computer 
 
 ---
 
-<h3 align="center">Languages I Speak</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreefeyuksel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=javascript,html,css,scss,jupyter%20notebook" alt="Top Languages" />
-</p>
+<h3 align="center">📂 Featured Projects / Öne Çıkan Projeler</h3>
+
+| Proje (Project) | Açıklama (Description) | Teknoloji (Stack) |
+| :--- | :--- | :--- |
+| **🧵 Textile Surface Defect Detection** | Kumaş yüzeylerindeki hataları (yırtık, delik) tespit eden hibrid AI modeli. <br>*(Working on Hybrid Approach with CNN & Autoencoders)* | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **🖥️ Image Processing Desktop App** | OpenCV tabanlı, filtreleme ve histogram işlemleri yapan masaüstü uygulaması. <br> | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=qt&logoColor=white) |
 
 ---
 
